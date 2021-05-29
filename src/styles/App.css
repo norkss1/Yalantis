@@ -1,0 +1,10 @@
+
+
+.employee-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.employee-card {
+    width: 24%;
+}
